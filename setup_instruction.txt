@@ -1,0 +1,5 @@
+- You need to just Install this zip and then It will automatically create Portfolio Custom post type and taxonomy
+with Imasge upload and text custom fields which are mentioned in mail.
+- Create page and add [recent-posts posts="2"] shortcode with Post Display limit. Clicking on title Popup will
+open and Image which is added in custom filed and other information will be display in popup.
+- [get-post-img show='true'] / [get-post-img show='false'] shortcode to display Post feature image (true/false)
